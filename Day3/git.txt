@@ -1,0 +1,8 @@
+Git Branching
+1.git Branching=> Lists all the branches and highlights the current/active branches
+git branch <branch_name>
+=>creates a new branch
+git checkout <branch_name>
+=>jumps to the branch name provided
+git checkout -b <branch_name>
+s
