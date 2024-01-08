@@ -1,0 +1,16 @@
+Git is a version control system
+Git is used to maintain the project versions and in team collaboration
+github->it is a cloud platform to store code/ program
+git commands
+=>Local and remote repository (Repo)
+git config --global user.name "username"
+git config --global user.email "email"
+git init
+=>initialize local repo
+git add .
+->adds all the changes to git
+git commit -m "commit message"
+=>commit the add changes
+8. git remote add orign <ssh-link>
+9.git remote -v
+=>lists all the remote repo ssh link
